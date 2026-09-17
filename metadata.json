@@ -1,0 +1,6 @@
+{
+  "name": "KaamWala",
+  "description": "Verified local skilled workers platform for repair, maintenance, and trusted home services with TrustX secure payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
